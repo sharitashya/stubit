@@ -1,0 +1,26 @@
+<manifest alg="2" build="2015.1.0.342" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="STUBIT.com" resolutions="1x" timestamp="1520875523783">
+  <folder name="css">
+    <file name="site_global.css" crc="131700929"/>
+    <file name="index.css" crc="3937497551" ref="index"/>
+    <file name="iefonts_index.css" crc="3966959548" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="409338010" ref="index"/>
+    <file name="museutils.js" crc="4190794036" ref="index"/>
+    <file name="whatinput.js" crc="84559013" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="jquery.watch.js" crc="349565855" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="3837774061" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="bkgd.jpg" crc="3863238255" seo="true" ref="index"/>
+    <file name="midground.png" crc="310790871" seo="true" ref="index"/>
+    <file name="mountains.png" crc="380582379" seo="true" ref="index"/>
+    <file name="pillar.png" crc="58959271" seo="true" ref="index"/>
+    <file name="u1409-5.png" crc="4241447465" ref="index"/>
+    <file name="books_notebooks_watch_pens_pen_67310_1920x1080.jpg" crc="3921904322" seo="true" ref="index"/>
+    <file name="homework-2521144_1920.jpg" crc="4229416660" seo="true" ref="index"/>
+    <file name="istock-520374378.jpg" crc="4100239789" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="399682554" seo="true" mt="1520875453959" redirect="true"/>
+</manifest>
